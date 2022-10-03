@@ -1,0 +1,172 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow: hidden;
+    background-color: #0F1923;
+}
+
+header{
+    
+    display: flex;
+    background-color: #FF4655;
+    font-family: 'Poppions', cursive;
+}
+.riot{
+    width: 165px;
+    height: 40px;
+    margin-left: 25px;
+    margin-top: 5px;
+}
+
+.vector{
+    border:solid #131723;
+    width: 0px;
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+.logo{
+    width: 66.95px;
+    height: 40px;
+    margin-left: 33px;
+    margin-top: 5px;
+}
+.game{
+    font-size: 10px;
+    margin-left: 300px;
+    margin-top: 20px;
+   
+}
+
+.champion{
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.discover{
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.patch{
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.sports{
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.shop{
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+.suport{
+    font-size: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+
+
+main{
+    background-color: #0F1923;
+}
+
+.killjoy{
+    color:#FF4655;
+    font-size: 70px;
+    margin-top: 60px;
+    margin-left: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sentinel{
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-left: 250px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bio{
+    color: #FFFFFF;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    width: 40px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.bio1{
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    width: 300px;
+
+}
+
+.bio2{
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+    width: 360px;
+   
+}
+
+.koljoy{
+    padding-bottom: 200px;
+    padding-left: 300px;
+}
+.fundo{
+    position: absolute;
+    
+
+}
+footer{
+    color: #0F1923;
+    padding-left: 45px;
+    
+}
+.quadro1{
+    size: 20px;
+}
+
+.boneco{
+    padding-right: 50px;
+}
+.miniatura{
+
+}
+
+twitter{
+
+}
+
+quadro2{
+
+}
+
+boneca{
+
+}
+
+quadro3{
+
+}
+
+bonecoo{
+
+}
+           
